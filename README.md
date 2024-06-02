@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:honeybee: M.S Computer Science, Georgia Institute of Technology (@gatech)
+:honeybee: M.S Computer Science, [Georgia Institute of Technology](https://www.cc.gatech.edu/)
 
-:steam_locomotive: B.S Electrical Engineering, Purdue University (@Purdue)
+:steam_locomotive: B.S Electrical Engineering, [Purdue University](https://engineering.purdue.edu/)
