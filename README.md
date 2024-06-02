@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Patrick 👋
 
 <!--
 **keanep/keanep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:honeybee: M.S Computer Science, Georgia Institute of Technology (@gatech)
+
+:steam_locomotive: B.S Electrical Engineering, Purdue University (@Purdue)
